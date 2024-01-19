@@ -1,7 +1,8 @@
 final class SimpleSingleton {
     private static Singleton instance = null;
 
-    private Singleton() {}
+    private Singleton() {
+    }
 
     public static synchronized Singleton getInstance() {
         if (instance == null)

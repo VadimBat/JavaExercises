@@ -4,7 +4,8 @@ import java.io.*;
 public class Configuration {
     private static Configuration instance = null;
     private Properties properties;
-    private Configuration (){
+
+    private Configuration() {
         properties = new Properties();
         try {
             FileInputStream fis = new FileInputStream(

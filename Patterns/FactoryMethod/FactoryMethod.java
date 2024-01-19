@@ -4,11 +4,14 @@
  * @see https://en.wikipedia.org/wiki/Factory_method_pattern
  */
 
-abstract class Product { }
+abstract class Product {
+}
 
-class ConcreteProductA extends Product { }
+class ConcreteProductA extends Product {
+}
 
-class ConcreteProductB extends Product { }
+class ConcreteProductB extends Product {
+}
 
 abstract class Creator {
     public abstract Product factoryMethod();
@@ -35,7 +38,7 @@ public class FactoryMethodExample {
         Creator[] creators = {new ConcreteCreatorA(), new ConcreteCreatorB()};
 
         // iterate over creators and create products
-        for (Creator creator: creators) {
+        for (Creator creator : creators) {
             Product product = creator.factoryMethod();
             System.out.printf("Created {%s}\n", product.getClass());
         }
