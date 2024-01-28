@@ -1,7 +1,6 @@
-/*
+/**
  * Java. Factory method pattern example
  *
- * @see https://en.wikipedia.org/wiki/Factory_method_pattern
  */
 
 abstract class Product {
@@ -31,7 +30,7 @@ class ConcreteCreatorB extends Creator {
     }
 }
 
-public class FactoryMethodExample {
+public class FactoryMethod {
     public static void main(String[] args) {
 
         // an array of creators

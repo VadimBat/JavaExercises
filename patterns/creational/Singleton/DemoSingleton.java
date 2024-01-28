@@ -7,7 +7,7 @@ public class DemoSingleton {
                         .append("If you see different values, then 2 singletons were created")
                         .append("\n\n")
                         .append("RESULT:")
-                        .append("\n").toString());
+                        .append("\n"));
         Singleton singleton = Singleton.getInstance("FOO");
         Singleton anotherSingleton = Singleton.getInstance("BAR");
         System.out.println(singleton.value);
