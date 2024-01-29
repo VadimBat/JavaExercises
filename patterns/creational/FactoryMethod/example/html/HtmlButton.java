@@ -9,12 +9,12 @@ public class HtmlButton implements Button {
 
     @Override
     public void render() {
-        System.out.println("<button>Test Button</button>");
+        System.out.println("<button>Test button.Button</button>");
         onClick();
     }
 
     @Override
     public void onClick() {
-        System.out.println("Click! Button says - 'Hello World!'");
+        System.out.println("Click! button.Button says - 'Hello World!'");
     }
 }
