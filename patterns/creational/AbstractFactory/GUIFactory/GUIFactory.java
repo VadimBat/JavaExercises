@@ -8,5 +8,6 @@ import checkbox.CheckBox;
  */
 public interface GUIFactory {
     Button createButton();
+
     CheckBox createCheckbox();
 }

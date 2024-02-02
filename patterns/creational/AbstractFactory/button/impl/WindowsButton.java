@@ -4,7 +4,7 @@ import button.Button;
 
 /**
  * All products families have the same varieties (MacOS/Windows).
- *
+ * <p>
  * This is Windows variant of a button.
  */
 public class WindowsButton implements Button {
