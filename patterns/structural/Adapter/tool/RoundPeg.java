@@ -6,7 +6,8 @@ package Adapter.tool;
 public class RoundPeg {
     private double radius;
 
-    public RoundPeg() {}
+    public RoundPeg() {
+    }
 
     public RoundPeg(double radius) {
         this.radius = radius;
