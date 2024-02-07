@@ -1,6 +1,6 @@
 package product;
 
-import product.feature.*;
+import Builder.product.feature.*;
 
 /**
  * product.Car manual is another product. Note that it does not have the same ancestor
