@@ -1,8 +1,8 @@
-package build.impl;
+package Builder.build.impl;
 
-import build.Builder;
-import product.Car;
-import product.feature.*;
+import Builder.build.Builder;
+import Builder.product.Car;
+import Builder.product.feature.*;
 
 /**
  * Concrete builders implement steps defined in the common interface.

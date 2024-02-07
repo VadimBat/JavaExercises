@@ -1,5 +1,8 @@
-import build.Builder;
-import product.feature.*;
+package Builder;
+
+import Builder.build.Builder;
+import Builder.product.feature.*;
+
 
 /**
  * Director defines the order of building steps. It works with a builder object

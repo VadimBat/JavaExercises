@@ -1,6 +1,7 @@
-package product.feature;
+package Builder.product.feature;
 
-import product.Car;
+
+import Builder.product.Car;
 
 /**
  * Just another feature of a car.

@@ -1,6 +1,8 @@
-package product;
+package Builder.product;
 
-import product.feature.*;
+
+import Builder.product.feature.*;
+
 
 /**
  * product.Car is a product class.

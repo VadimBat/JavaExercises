@@ -1,7 +1,10 @@
-import build.impl.CarBuilder;
-import build.impl.CarManualBuilder;
-import product.Car;
-import product.Manual;
+package Builder;
+
+import Builder.product.Car;
+import Builder.build.impl.CarBuilder;
+import Builder.build.impl.CarManualBuilder;
+import Builder.product.Manual;
+
 
 /**
  * Demo class. Everything comes together here.

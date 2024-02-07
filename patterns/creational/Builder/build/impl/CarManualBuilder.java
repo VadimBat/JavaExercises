@@ -1,8 +1,8 @@
-package build.impl;
+package Builder.build.impl;
 
-import build.Builder;
-import product.Manual;
-import product.feature.*;
+import Builder.build.Builder;
+import Builder.product.Manual;
+import Builder.product.feature.*;
 
 /**
  * Unlike other creational patterns, build.Builder can construct unrelated products,

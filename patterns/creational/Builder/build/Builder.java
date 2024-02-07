@@ -1,6 +1,6 @@
-package build;
+package Builder.build;
 
-import product.feature.*;
+import Builder.product.feature.*;
 
 /**
  * build.Builder interface defines all possible ways to configure a product.

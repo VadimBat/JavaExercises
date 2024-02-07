@@ -1,4 +1,4 @@
-package product;
+package Builder.product;
 
 import Builder.product.feature.*;
 

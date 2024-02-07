@@ -1,4 +1,4 @@
-package product.feature;
+package Builder.product.feature;
 
 /**
  * Just another feature of a car.
