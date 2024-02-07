@@ -1,4 +1,4 @@
-package Bridge.impl;
+package Bridge.DeviceImpl;
 
 import Bridge.Device;
 
