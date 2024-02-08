@@ -6,6 +6,7 @@ public class Radio implements Device {
     private boolean on = false;
     private int volume = 30;
     private int channel = 1;
+
     @Override
     public boolean isEnabled() {
         return on;
