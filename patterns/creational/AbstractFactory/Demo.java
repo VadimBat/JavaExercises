@@ -1,6 +1,8 @@
-import GUIFactory.GUIFactory;
-import GUIFactory.impl.MacOSFactory;
-import GUIFactory.impl.WindowsFactory;
+package AbstractFactory;
+
+import AbstractFactory.GUIFactory.GUIFactory;
+import AbstractFactory.GUIFactory.impl.MacOSFactory;
+import AbstractFactory.GUIFactory.impl.WindowsFactory;
 
 /**
  * Demo class. Everything comes together here.

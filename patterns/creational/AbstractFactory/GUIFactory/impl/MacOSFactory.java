@@ -1,10 +1,10 @@
-package GUIFactory.impl;
+package AbstractFactory.GUIFactory.impl;
 
-import GUIFactory.GUIFactory;
-import button.Button;
-import button.impl.MacOSButton;
-import checkbox.CheckBox;
-import checkbox.impl.MacOSCheckbox;
+import AbstractFactory.GUIFactory.GUIFactory;
+import AbstractFactory.button.Button;
+import AbstractFactory.button.impl.MacOSButton;
+import AbstractFactory.checkbox.CheckBox;
+import AbstractFactory.checkbox.impl.MacOSCheckbox;
 
 /**
  * Each concrete factory extends basic factory and responsible for creating

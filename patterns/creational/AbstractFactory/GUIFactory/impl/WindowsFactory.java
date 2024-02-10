@@ -1,10 +1,10 @@
-package GUIFactory.impl;
+package AbstractFactory.GUIFactory.impl;
 
-import GUIFactory.GUIFactory;
-import button.Button;
-import button.impl.WindowsButton;
-import checkbox.CheckBox;
-import checkbox.impl.WindowsCheckbox;
+import AbstractFactory.GUIFactory.GUIFactory;
+import AbstractFactory.button.Button;
+import AbstractFactory.button.impl.WindowsButton;
+import AbstractFactory.checkbox.CheckBox;
+import AbstractFactory.checkbox.impl.WindowsCheckbox;
 
 /**
  * Each concrete factory extends basic factory and responsible for creating

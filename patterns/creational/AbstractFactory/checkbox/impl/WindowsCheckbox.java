@@ -1,6 +1,6 @@
-package checkbox.impl;
+package AbstractFactory.checkbox.impl;
 
-import checkbox.CheckBox;
+import AbstractFactory.checkbox.CheckBox;
 
 /**
  * All products families have the same varieties (MacOS/Windows).

@@ -1,6 +1,8 @@
-import GUIFactory.GUIFactory;
-import button.Button;
-import checkbox.CheckBox;
+package AbstractFactory;
+
+import AbstractFactory.GUIFactory.GUIFactory;
+import AbstractFactory.button.Button;
+import AbstractFactory.checkbox.CheckBox;
 
 
 /**

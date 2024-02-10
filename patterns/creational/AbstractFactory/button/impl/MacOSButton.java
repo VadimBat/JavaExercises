@@ -1,6 +1,6 @@
-package button.impl;
+package AbstractFactory.button.impl;
 
-import button.Button;
+import AbstractFactory.button.Button;
 
 /**
  * All products families have the same varieties (MacOS/Windows).

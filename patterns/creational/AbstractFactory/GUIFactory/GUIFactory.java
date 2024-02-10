@@ -1,7 +1,7 @@
-package GUIFactory;
+package AbstractFactory.GUIFactory;
 
-import button.Button;
-import checkbox.CheckBox;
+import AbstractFactory.button.Button;
+import AbstractFactory.checkbox.CheckBox;
 
 /**
  * Abstract factory knows about all (abstract) product types.
