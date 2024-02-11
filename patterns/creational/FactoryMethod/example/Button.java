@@ -1,4 +1,4 @@
-package example;
+package FactoryMethod.example;
 
 /**
  * Common interface for all buttons.

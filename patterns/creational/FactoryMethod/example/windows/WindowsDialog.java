@@ -1,8 +1,8 @@
-package example.windows;
+package FactoryMethod.example.windows;
 
-import example.Button;
-import example.Dialog;
-import example.windows.WindowsButton;
+import FactoryMethod.example.Button;
+import FactoryMethod.example.Dialog;
+import FactoryMethod.example.windows.WindowsButton;
 
 /**
  * Windows Dialog will produce Windows buttons.

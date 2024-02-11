@@ -1,7 +1,7 @@
-package example;
+package FactoryMethod.example;
 
-import example.html.HtmlDialog;
-import example.windows.WindowsDialog;
+import FactoryMethod.example.html.HtmlDialog;
+import FactoryMethod.example.windows.WindowsDialog;
 
 /**
  * Demo class. Everything comes together here.

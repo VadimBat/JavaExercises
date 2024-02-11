@@ -1,3 +1,5 @@
+package FactoryMethod;
+
 /**
  * Java. Factory method pattern example
  *

@@ -1,4 +1,4 @@
-package example;
+package FactoryMethod.example;
 
 /**
  * Base factory class. Note that "factory" is merely a role for the class. It

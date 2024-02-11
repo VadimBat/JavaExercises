@@ -1,6 +1,6 @@
-package example.windows;
+package FactoryMethod.example.windows;
 
-import example.Button;
+import FactoryMethod.example.Button;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,6 +1,6 @@
-package example.html;
+package FactoryMethod.example.html;
 
-import example.Button;
+import FactoryMethod.example.Button;
 
 /**
  * HTML button implementation.

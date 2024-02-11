@@ -1,8 +1,8 @@
-package example.html;
+package FactoryMethod.example.html;
 
-import example.Button;
-import example.Dialog;
-import example.html.HtmlButton;
+import FactoryMethod.example.Button;
+import FactoryMethod.example.Dialog;
+import FactoryMethod.example.html.HtmlButton;
 
 /**
  * HTML Dialog will produce HTML buttons.
