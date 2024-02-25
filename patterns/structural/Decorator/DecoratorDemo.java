@@ -1,5 +1,6 @@
-package Decorator.data;
+package Decorator;
 
+import Decorator.data.DataSource;
 import Decorator.data.impl.CompressionDecorator;
 import Decorator.data.impl.DataSourceDecorator;
 import Decorator.data.impl.EncryptionDecorator;
